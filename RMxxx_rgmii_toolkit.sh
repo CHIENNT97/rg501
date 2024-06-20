@@ -2,10 +2,10 @@
 
 # Define toolkit paths
 export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/opt/bin:/opt/sbin:/usrdata/root/bin
-GITUSER="iamromulan"
-GITTREE="development"
+GITUSER="CHIENNT97"
+GITTREE="main"
 GITMAINTREE="main"
-GITDEVTREE="development"
+GITDEVTREE="main"
 TMP_DIR="/tmp"
 USRDATA_DIR="/usrdata"
 SOCAT_AT_DIR="/usrdata/socat-at-bridge"
